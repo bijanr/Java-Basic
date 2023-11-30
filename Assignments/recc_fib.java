@@ -1,3 +1,5 @@
+package Assignments;
+
 import java.util.Scanner;
 
 public class recc_fib

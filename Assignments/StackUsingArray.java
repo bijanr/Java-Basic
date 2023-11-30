@@ -1,5 +1,5 @@
 
-
+/* 
 import java.util.Scanner;
 
 public class StackUsingArray
@@ -115,4 +115,4 @@ class Stack
 		}
 		return "[]";
 	}
-}
+}*/

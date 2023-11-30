@@ -1,6 +1,6 @@
+package Leetcode;
 
-
-public class int_to_english {
+class int_to_english {
     String[] bigger={"Billion","Million","Thousand"};
     int[] biggerI={100000000,1000000,1000};
     String[] hund={"Hundred","Ninety","Eighty","Seventy","Sixty","Fifty","Fourty","Thirty","Twenty","Ten"};

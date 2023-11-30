@@ -1,3 +1,5 @@
+package Assignments;
+
 import java.util.Scanner;
 import static java.lang.System.out;
 public class euclidean_lcm {

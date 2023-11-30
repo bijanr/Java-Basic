@@ -1,3 +1,5 @@
+package Assignments;
+
 import java.util.*;
 public class gp_series {
     public static void main(String[] args) {
