@@ -1,4 +1,3 @@
-package Assignments;
 import java.util.*;
 public class quadratic_roots {
     public static void main(String[] args) {

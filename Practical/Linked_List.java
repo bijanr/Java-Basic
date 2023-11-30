@@ -62,8 +62,6 @@ public class Linked_List {
         list.set(i,value);
     }
 
-    public voud 
-
 
 
 }

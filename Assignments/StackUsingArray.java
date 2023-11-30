@@ -1,4 +1,4 @@
-/*package Assignments;
+
 
 import java.util.Scanner;
 
@@ -115,4 +115,4 @@ class Stack
 		}
 		return "[]";
 	}
-}*/
+}
